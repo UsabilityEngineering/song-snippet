@@ -4,9 +4,9 @@ Avid music listeners often spend hours trying to find new songs that suit their 
 
 ## UX Team Members
 
-* **[Jeeno Thongsavat](https://usabilityengineering.github.io/ux-portfolio-jthongsavat1/)** - !!!List of Person A's primary contributions!!!
-* **[Maximillian Barron](https://usabilityengineering.github.io/ux-portfolio-MaximillianBarron/)** - !!!List of Person B's primary contributions!!!
-* **[Victor Martinez](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Jeeno Thongsavat](https://usabilityengineering.github.io/ux-portfolio-jthongsavat1/)** - Team Organizer
+* **[Maximillian Barron](https://usabilityengineering.github.io/ux-portfolio-MaximillianBarron/)** - Design
+* **[Victor Martinez](!!!URL to Person C's published portfolio!!!)** - Software Insight
 
 # User-Centered Design Artifacts
  
