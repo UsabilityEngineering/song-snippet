@@ -1,8 +1,8 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# Song Snippet
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Avid music listeners often spend hours trying to find new songs that suit their tastes. Having to listen to each individual song will consume a lot of time that could be spent doing other activities. Our goal is to allow users to discover and like new songs in a timely manner without having to waste hours finding songs to add to their playlist. Our app will allow users to listen to a snippet of the song and give them a general idea of what the song will sound like. The user will then be able to like or dislike the song by swiping left or right; which they then can add to their playlist on their music platform of choice. We want to make discovering music more enjoyable and less of a chore. 
 
 ## UX Team Members
 
