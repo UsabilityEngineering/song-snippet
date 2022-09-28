@@ -29,8 +29,8 @@ Emily loves her job and talking with her clients about their mental health. Emil
 Emily loves to spend time with her family after hours. Her hobbies include reading, hiking, and watching sports. She is very social and loves to talk to others, often becoming the center of attention when interacting with friends and family. 
 
 ## Goals:
-Find new music to help clients relax too
-Share those playlists with clients
+- Find new music to help clients relax too
+- Share those playlists with clients
 
 
 # Scenarios
