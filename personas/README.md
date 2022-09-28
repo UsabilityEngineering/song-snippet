@@ -1,6 +1,6 @@
 # Personas
 
-![A picture of mark](Mark.JPEG)
+![A picture of Mark](/Mark.jpeg)
 Mark
 22 year old student in Santa Cruz, California
 Studying for a Masters in Psychology
