@@ -35,7 +35,9 @@ Emily loves to spend time with her family after hours. Her hobbies include readi
 
 # Scenarios
 
-  Scenario 1 - After a long day Mark wants to wind down by listening to music, but doesn't want to listen to their usual run of music. They want to find a way to easily discover and explore new music. Without scrolling through endless libraries of music. He doesn’t want to spend too much time on it.
+## Scenario 1 - 
+After a long day Mark wants to wind down by listening to music, but doesn't want to listen to their usual run of music. They want to find a way to easily discover and explore new music. Without scrolling through endless libraries of music. He doesn’t want to spend too much time on it.
 
-  Scenario 2 - Emily is tasked with creating a playlist for a background setting. But have no music or their current music taste wouldn’t deem appropriate. Their deadline is the following work week and they have no idea what “comforting” music could consist of. They want a quick way to get a list of songs that are calming for her clients without having to listen to five minute plus songs.
+## Scenario 2 - 
+Emily is tasked with creating a playlist for a background setting. But have no music or their current music taste wouldn’t deem appropriate. Their deadline is the following work week and they have no idea what “comforting” music could consist of. They want a quick way to get a list of songs that are calming for her clients without having to listen to five minute plus songs.
 
