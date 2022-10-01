@@ -59,7 +59,8 @@ The app will help users recognize the problem, however they will often not tell 
 There is a clearly labeled help button in the support section in the settings. This will link you to a page where there is a whole multi-page manual on how to navigate the app, use certain features, and copyright information. 
 
 # Findings - 
-
+From the information that we have gathered from our Competitive Analysis, we observed that not that many apps over the same kind of service that we will be providing to our users. There are some applications that have some similar features, however they do not offer the same method of finding new music for consumers. So in order to gather data we ran a Competitive Analysis of potential competitors, here are our findings.
+* 
 
 # Conclusion -
 
