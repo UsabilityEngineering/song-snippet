@@ -14,8 +14,14 @@ Our demographic would include any avid music enjoyer. Our demographic is very br
 |  Product | Strengths  | Weaknesses  | Quality Level  |  Price/Cost | Platform  |
 |---|---|---|---|---|---|
 | Tiktok | Large User Base, Access to non popular artists/creators that you wouldn’t hear through other sources  | Snippets may not always include music  | High: Quality interface with usable technology | None | Web and Mobile App  |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| Spotify  | - Large Database of songs
+- High definition audio
+  | - No unreleased / underground
+  - Only released by a major label or spotify program
+  | High: Quality songs with licensed music  | Free Version and Paid Membership  | Mobile, Web, Smart Devices, and Game Consoles  |
+| Shazam  | - Will list similar songs that you have searched on the app
+- Will let a user play a popular snippet of commonly known songs
+  | Usability of the main function (recognizing songs) is based on how good the microphone and speaker playing the music is | High  | None  | Mobile and Web  |
 
 ## Heuristic Evaluation:
 
