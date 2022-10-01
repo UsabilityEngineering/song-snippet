@@ -38,7 +38,7 @@ The app allows a fair amount of user control and freedom when navigating through
 
 It falls within all of the consistency and standards of other streaming apps so there should be no trouble trying to learn how to navigate through the app.
 
-5. Error Prevention - 4
+5. Error Prevention - 9
 
 There is good communication between errors between the product and the consumer. There would be a pop-up notification that tells the user what the problem is.
 
@@ -65,7 +65,21 @@ There is a clearly labeled help button in the support section in the settings. T
 # Findings - 
 From the information that we have gathered from our Competitive Analysis, we observed that not that many apps over the same kind of service that we will be providing to our users. There are some applications that have some similar features, however they do not offer the same method of finding new music for consumers. Here are our findings from the data that we have gathered.
 
-* User
+* Our main competitor would be Shazam as they pose the biggest threat and are the most similar to our product
+* All three competitors do not offer a way to preview snippets of music in a timely manner
+* Platforms such as Tik Tok do not offer every song available, so it makes it hard to find certain songs. However, they do support smaller creators.
+* Companies such as Shazam and Spotify do not offer the luxury of having smaller music creators on their platform 
+* Shazam does offer music preview features, however the preview lasts for an entire minute rather than what we are trying to achieve which is to preview a song in around 15 seconds. 
+
+Moving to our Heuristic Evaluation, the competitor we determined that Shazam would be our biggest competitor. We based our evaluation against their interface to determine where their strengths and weaknesses lie. By doing this we can determine what areas we can improve upon in our design. There were a lot of positives about Shazam, however we discovered that there were some areas that could have been improved upon.
+
+* The overall design of the app is minimalistic and simple to navigate. 
+* While there is a help page, a user would have to jump through some hoops in order to navigate to it. Navigating to settings, going to info, and then navigating to help which will then take you to a link to their website. 
+* The only way to be notified of updates is through the app store, there is no way to check any update notes within the app
+* Shazam does offer music preview features, however the preview lasts for an entire minute which is basically the entire song. 
+* While errors do occur, the app does not directly tell you how to solve those issues.
+* While the app is intuitive, it does require a fair amount of scrolling through song lists which can be quite time consuming and tiresome. 
+
 
 # Conclusion -
 
