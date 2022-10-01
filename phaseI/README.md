@@ -18,6 +18,10 @@ Our demographic would include any avid music enjoyer. Our demographic is very br
 | Shazam | - Will list similar songs that you have searched on the app - Will let a user play a popular snippet of commonly known songs | Usability of the main function (recognizing songs) is based on how good the microphone and speaker playing the music is | High | None  | Mobile and Web |
 
 ## Heuristic Evaluation:
+Initial MVP - Our initial goal for the first sprint is to be able to stream a snippet of a popular song from a list. The snippet would be around 7 seconds long in order to determine whether or not the user likes or dislikes the song. 
+
+Competitor - Our main competitor would be Shazam: Music Discovery. They display similar features that warrant them to be our main competitor. 
+
 1. Visibility of System Status - 7
 
 The only way to be notified of updates is through the app store, there is no way to check any update notes within the app. However, the update notes that are written do keep the user updated on what has changed. 
