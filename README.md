@@ -19,10 +19,14 @@ Avid music listeners often spend hours trying to find new songs that suit their 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+Song Snippet’s goal is to give users more accessibility of finding new songs to listen to. In our first phase, we spent our time gathering information to better understand our users and needs, how we compare to our competitors, and where we should be going forward.
+
+To gather our data we performed a Competitive Analysis and Heuristic Evaluation to better understand our competitors and see what we can do to make our product stand out amongst our competitors. 
+* A Competitive Analysis that highlights our competitors and compares their services. Using the information here, we can determine how we want to navigate our project going forward.
+* A Heuristic Evaluation to find the strengths and weaknesses of our main competitor. From this we can determine what areas we could focus and improve upon. 
+* Personas and Scenarios that highlight the average user experience needs.
+* Sketches of our initial design and how we want to navigate our project going forward.
+
 
 [Full phase I report](phaseI/)
 
