@@ -9,7 +9,7 @@ To gain insight on our competitors, we have decide to conduct two different rese
 ## Competitive Analysis:
 | Product | Strengths | Weaknesses | Quality Level | Price/Cost | Platform |
 | ----------- | ----------- |
-| Tiktok | - Large User Base - Access to non popular artists/creators that you wouldn’t hear through other sources | Snippets may not always include music | High: Quality interface with usable technology | None | - Web -Mobile App
+| Tiktok | - Large User Base - Access to non popular artists/creators that you wouldn’t hear through other sources | Snippets may not always include music | High: Quality interface with usable technology | None | - Web -Mobile App |
 
 Spotify
 Large Database of songs
