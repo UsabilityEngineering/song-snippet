@@ -4,6 +4,7 @@
 ### Team Members: Jeeno Thongsavat, Maximillian Barron, Victor Martinez
 ---
 # Methods -
+To gain insight on our competitors, we have decide to conduct two different research methods in order to organize our thoughts. Our main methods of research were Competitive Analysis and Heuristic Evaluation.
 
 ## Competitive Analysis:
 
