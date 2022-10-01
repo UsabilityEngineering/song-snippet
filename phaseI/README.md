@@ -88,6 +88,6 @@ Our goal is to make finding music more accessible to users who do not want to sp
 
 
 # Caveats -
-
+A glaring caveat that we have encountered is user data. While we have observed our own interactions with other apps, we have yet to gather data from outside users and record their own personal interactions. With this we can see what areas we could improve upon where those apps have been seen as lackluster. Gathering more user data and opinions from outside sources would be very beneficial to see what users would want and expect from an app such as Song Snippet. 
 
 ---
