@@ -1,16 +1,25 @@
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
-# Team: Song Snippet
-## Team Members: Jeeno Thongsavat, Maximillian Barron, Victor Martinez
+## Team: Song Snippet
+### Team Members: Jeeno Thongsavat, Maximillian Barron, Victor Martinez
+
+# Methods -
+
+## Competitive Analysis:
 
 
-# Methods
+## Heuristic Evaluation:
 
 
-# Findings
+# Findings - 
+
+## Competitive Analysis:
 
 
-# Conclusion
+## Heuristic Evaluation:
 
 
-# Caveats
+# Conclusion -
+
+
+# Caveats -
