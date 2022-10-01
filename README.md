@@ -4,8 +4,8 @@ Avid music listeners often spend hours trying to find new songs that suit their 
 
 ## UX Team Members
 
-* **[Jeeno Thongsavat](https://usabilityengineering.github.io/ux-portfolio-jthongsavat1/)** - Team Organizer Phase 1 - Wrote Executive Summary, Personas and Scenarios,  collaborated on findings, and wrote the report.
-* **[Maximillian Barron](https://usabilityengineering.github.io/ux-portfolio-MaximillianBarron/)** - Design and Concepts Phase 1: Designed the Wireframe, collaborated on findings, and wrote Personas and Scenarios.
+* **[Jeeno Thongsavat](https://usabilityengineering.github.io/ux-portfolio-jthongsavat1/)** - Team Organizer Phase 1 - Wrote Executive Summary, Personas and Scenarios,  collaborated on methods and findings, and wrote the report.
+* **[Maximillian Barron](https://usabilityengineering.github.io/ux-portfolio-MaximillianBarron/)** - Design and Concepts Phase 1: Designed the Wireframe, collaborated on methods and findings, and wrote Personas and Scenarios.
 * **[Victor Martinez](https://usabilityengineering.github.io/ux-portfolio-vmartinez40/)** - Software Insight Phase 1: Wrote Personas and Scenarios and collaborated on methods and findings.
 
 # User-Centered Design Artifacts
