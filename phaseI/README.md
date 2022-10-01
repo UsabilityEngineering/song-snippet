@@ -82,8 +82,12 @@ Moving to our Heuristic Evaluation, the competitor we determined that Shazam wou
 
 
 # Conclusion -
+While Song Snippet may not have as many competitors who offer the same service as us. We can capitalize on this by making an appealing service that can appeal to such a wide variety of users. It will be challenging to compete with well known services that have already established such a massive user base. Knowing this we still believe that our product can rival top apps such as Spotify and Shazam.
+
+Our goal is to make finding music more accessible to users who do not want to spend hours upon hours listening to songs to find songs that they enjoy. From our standpoint, we are offering a service that, while currently available to some degree, is more convenient and accessible to users who want to discover new music in a timely manner. Using the data we gathered, we can determine what areas we should be focusing on in order to make our app more appealing and helpful to users.
 
 
 # Caveats -
+
 
 ---
