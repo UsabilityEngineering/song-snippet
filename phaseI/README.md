@@ -60,7 +60,8 @@ There is a clearly labeled help button in the support section in the settings. T
 
 # Findings - 
 From the information that we have gathered from our Competitive Analysis, we observed that not that many apps over the same kind of service that we will be providing to our users. There are some applications that have some similar features, however they do not offer the same method of finding new music for consumers. So in order to gather data we ran a Competitive Analysis of potential competitors, here are our findings.
-* 
+
+* User
 
 # Conclusion -
 
