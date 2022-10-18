@@ -1,6 +1,6 @@
 # Personas
 
-![A picture of Mark](/personas/Mark.jpeg)
+![A picture of Mark](personas/Mark.jpeg)
 ## Mark
 - 22 year old student in Santa Cruz, California
 - Studying for a Masters in Psychology
@@ -10,7 +10,7 @@ Mark is a hard working student who spends the majority of his time studying. In 
 Mark often listens to music during his day, as he is able to have his headphones in while studying, lifting, and skating. But he finds it very tedious trying to discover new music. He is a very busy person, and doesn’t have time to constantly sit around and listen to a lot of songs so he can  decide what to add to his playlist. Because of this, he has been listening to a lot of the same music lately. It has been making music very bland to him, to the point where he doesn’t even like putting his headphones on anymore. He wishes there was a way to quickly hear songs that could give him new music interests when he has little breaks, like before he goes to bed.
 
 
-![A picture of John](/personas/John.jpeg)
+![A picture of John](personas/John.jpeg)
 ## John
 - 18 year old in North Dakota 
 - Only listens to the same 3 country/rock albums
@@ -19,7 +19,7 @@ Mark often listens to music during his day, as he is able to have his headphones
 John keeps himself preoccupied throughout the day doing menial tasks. When people ask him what music he listens to he usually defaults to “I don't really listen to music”. His music knowledge is not broad so he wishes he can discover new music in the easiest way possible. Without having to front to back multiple songs and or libraries of music.
 
 
-![A picture of Emily](/personas/Emily.jpeg)
+![A picture of Emily](personas/Emily.jpeg)
 ## Emily 
 - 35 year old female located in Phoenix, Arizona
 - Certified Therapist
