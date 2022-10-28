@@ -34,10 +34,26 @@ To gather our data we performed a Competitive Analysis and Heuristic Evaluation 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+In Phase II, we created wireframes. This gives us the opportunity to visualize where we should place different elements of our ideas without the need to code the product. We also performed cognitive walkthroughs of our wireframes to see how users would interact and see what areas need the most improvement. 
+Based on the information that we have gathered in Phase I, we have decided to go with a simplistic design that allows users to achieve their goal with relatively no trouble.
+
+Our wireframes include such features as:
+* Landing Homepage that displays the user’s liked songs 
+* Page for playlists
+* Pages for liking and disliking songs
+* Search page for finding new songs to listen to
+* Navigation Bar to navigate through the menus
+* Account Information page
+
+Upon the results of our cognitive walkthrough that we have performed, the feedback we have received is mixed. 
+* Some users were able to achieve their goals, while others were lost trying to navigate the wireframes.
+* Using this information, we have decided to focus more on clarity on interaction with some buttons while also applying some visual design along the way. 
+
+With the informal feedback that we have received, we have concluded that our application was simple and straightforward. 
+* While still having room for improvement, users did not have many difficulties navigating through the application. 
+
+From what we have learned throughout Phase II, we have decided that we do not need to incorporate that much design toward our user testing in Phase III. Rather we plan to focus more on our interaction with users and make it easier for them to interact with. We will plan to implement design along the way, however it will not be our main focus moving forward. 
+
 
 [Full phase II report](phaseII/)
 
