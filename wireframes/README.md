@@ -35,3 +35,6 @@ After tapping on the search icon it will bring up the search page. This page wil
 *Figure 5: Library and Edit Songs*
 
 Tapping on the library icon will display the user’s library. This page shows the user’s custom playlists and liked songs. The user’s custom playlist will be displayed on the top of the page while scrolling down it will display the user’s liked songs. Tapping on the icon on the right of playlist or song selection will display a little pop-up menu that will allow the users to customize the selection. As displayed in the second image, a user is able to add the song to a playlist or remove the song from their library.
+
+## Supplementary Material
+[Wireframe PDF](SongSnippetMobileWireframe.pdf)
