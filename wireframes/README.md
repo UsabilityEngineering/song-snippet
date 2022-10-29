@@ -12,7 +12,7 @@ When first logging into the application, users will be prompted to first login t
 
 *Figure 2: Homepage and Account Information*
 
-In the first image, we have the main homepage. This is where users are able to browse for music within genres they want to listen to. There is a recommended playlist image that when tapped on will display all types of music that Song Snippet will think that you may be interested in. When tapping on any of the genre images, it will bring up snippets only in that genre that Song Snippet thinks you would like to listen to. Next, when tapping on the profile icon in the top-right hand corner, it will bring up the Account Information page. This page will display your profile information such as your profile image, account information, the display language, filter explicit content, enable or disable notifications, and the about page. On the bottom of the screen, you will notice a navigation bar that displays three different icons. The first icon takes you to the homepage as indicated by the house icon. The second icon in the middle is the search feature, that allows you to look up specific music that you want to listen to. The final icon on the right hand side is the playlist/liked songs icon. This icon will send you to a personal page where it displays custom playlists of songs that you have created and all of the liked songs that you have favorited. 
+In the first image, we have the main homepage. This is where users are able to browse for music within genres they want to listen to. There is a recommended playlist image that when tapped on will display all types of music that Song Snippet will think that you may be interested in. When tapping on any of the genre images, it will bring up snippets only in that genre that Song Snippet thinks you would like to listen to. Next, when tapping on the profile icon in the top-right hand corner, it will bring up the Account Information page. This page will display your profile information such as your profile image, account information, the display language, filter explicit content, enable or disable notifications, and the about page. On the bottom of the screen, you will notice a navigation bar that displays three different icons. The first icon takes you to the homepage as indicated by the house icon. The second icon in the middle is the search feature, that allows you to look up specific music that you want to listen to. The final icon on the right hand side is the library icon. This icon will send you to a personal page where it displays custom playlists of songs that you have created and all of the liked songs that you have favorited. 
 
 ![Find Songs](../wireframes/FindSongs.jpg)
 ![Liking a Song](../wireframes/LikingaSong.jpg)
@@ -27,4 +27,7 @@ After tapping on one of the icons to search for songs, it will bring you to this
 
 *Figure 4: Search*
 
-After tapping on the search icon, users will be able to find any specific songs they want to look up and listen to. It features a search bar on the top of the screen as well as a history of search below it indicating previous songs users have looked up. 
+![Playlist and Liked Songs](../wireframes/PlaylistsandLikedSongs.jpg)
+![Edit Songs](../wireframes/EditSongs.jpg)
+
+*Figure 5: Library and Edit Songs*
