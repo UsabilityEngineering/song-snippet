@@ -61,9 +61,31 @@ From what we have learned throughout Phase II, we have decided that we do not ne
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+In Phase III, we put our prototype to the test. By testing our prototype against users, we were able to gather useful information and see where we stand up against our competition. We gathered 5 participants and had them test our prototype against one of our competitors Shazam. By performing the same tasks on each application we were able to determine the strengths and weaknesses of our prototype, so that we could later improve upon them. 
+
+Our protocol during the test included these tasks:
+* An introduction to familiarize users with our prototype
+* Background questions in order to gather data
+* Various tasks in order to evaluate the user’s experience
+** Create an account and be able to log in 
+** Navigate toward the song discovery page
+** Like a song
+** Navigate to the Library and create a playlist
+** Upload their own custom song snippet
+* Ratings on a scale from 1 to 5, with 1 being difficult and 5 being the easiest for each task
+* A conclusion/debrief section to gather more data on their experience and any additional comments
+
+Upon the results of the user test, we gathered much useful feedback and have determined that while our prototype is functional and simple to use. There are still some areas that can be improved upon.
+* 80% of users found our prototype more favorable than using Shazam
+* Users struggled at first to find the upload button, but eventually found it after looking
+* Not all users were able to complete the tasks completely, only managing to get to a certain point and feel like they already accomplished the task.
+
+After discussing our prototype further with the participants, we received some interesting feedback on ways that we could improve our prototype in the future.
+* Users wanted to see more ways to discover songs outside of the main functionality 
+* Users also wanted a way to compare songs with friends, seeing their likes and dislikes and matching those results with their own
+
+Using the information that we have gathered throughout our user test, we have learned much about how users interact with our prototype and the kind of expectations they have of it. We have come to the conclusion that while users had not as much difficulty navigating through the prototype there are still some areas that need improvement. Going forward our next goal would be to change around some aspects of our prototype and move on to focus more on the design. 
+
+
 
 [Full phase III report](phaseIII/)
