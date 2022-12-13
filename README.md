@@ -67,11 +67,11 @@ Our protocol during the test included these tasks:
 * An introduction to familiarize users with our prototype
 * Background questions in order to gather data
 * Various tasks in order to evaluate the user’s experience
-** Create an account and be able to log in 
-** Navigate toward the song discovery page
-** Like a song
-** Navigate to the Library and create a playlist
-** Upload their own custom song snippet
+ * Create an account and be able to log in 
+ * Navigate toward the song discovery page
+ * Like a song
+ * Navigate to the Library and create a playlist
+ * Upload their own custom song snippet
 * Ratings on a scale from 1 to 5, with 1 being difficult and 5 being the easiest for each task
 * A conclusion/debrief section to gather more data on their experience and any additional comments
 
