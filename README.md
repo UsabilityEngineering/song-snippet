@@ -13,7 +13,7 @@ Avid music listeners often spend hours trying to find new songs that suit their 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](https://xd.adobe.com/view/d3db4012-149f-468f-996f-b25881b9f1bc-8688/?fullscreen)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
