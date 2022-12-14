@@ -17,6 +17,8 @@ We had participants run through our own prototype and run through the various ta
 
 * Task 3: 
 
+* Ease of Task Ratings:
+
 * Wrap-up Questions:  
 
 
