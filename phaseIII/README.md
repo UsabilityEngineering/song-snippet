@@ -45,6 +45,8 @@ Task 2: All participants were able to find and like a song within the prototype,
 
 Task 3: All participants were able to upload their own song to the app. A few of the users struggled to find the "upload" button, so we could make it easier to access. One stated that they saw the visual confirmation which let them know they were done with their task. Average ease rank was 4.2/5.
 
+Wrap Up Questions: Wrapping up our user test we asked our participants a series of questions in order to gather their overall opinion. 80% of users found our prototype more favorable than our competitor Shazam in the test. Features that made our prototype more appealing than our competitor was our overall layout and ease of accessibility. Some users expressed that they preferred the song recognition feature on Shazam over our prototype. Users expressed that they wanted to see a sort of friend/social system in place to share songs. 
+
 # Conclusions - 
 Using the methods and techniques that we have learned throughout the past year, we have finally been able to come up with a working prototype for our product. Having the opportunity to test out our product in a working environment has provided great insight into what areas we need to focus on improving and any changes along the way. Most users found our application to be easier to use and preferable compared to our competitor Shazam. Since our application follows the trends of user interface that is recognizable to the everyday user, that is what gave our application the upper hand. 
 
