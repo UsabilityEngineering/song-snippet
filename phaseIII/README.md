@@ -44,4 +44,4 @@ Task 3: All participants were able to upload their own song to the app. A few of
 # Conclusions - 
 
 # Caveats - 
-The main limitation of our research was the fidelity of our prototype. Certain features/predictable actions made by the participants wouldn't anything, so they had to assume what would happen.
+The biggest limitation of our user test would be our sample size. With having only 5 participants, it is hard to gather a wide range of data. Also having said users have similar backgrounds and career interests, it makes the data not as comprehensive as we would like it to be. Ideally, we would like to survey a wide range of people of various career fields and ages in order to fully grasp what areas need improvement.
