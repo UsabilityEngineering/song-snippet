@@ -33,4 +33,4 @@ Task 3: All participants were able to upload their own song to the app. A few of
 # Conclusions - 
 
 # Caveats - 
-
+The main limitation of our research was the fidelity of our prototype. Certain features/predictable actions made by the participants wouldn't anything, so they had to assume what would happen.
