@@ -9,6 +9,8 @@ In order to fully understand how well our prototype will do in front of actual u
 
 We had participants run through our own prototype and run through the various tasks that we have listed out down below. After the users completed the tasks for the prototype, we had them run the same task again, but on the Shazam app. We picked these tasks in order to fully test out our prototype and highlight the appeal. We had the users apply the “think-aloud protocol” in order to fully understand their thought process and identify areas that may need improvement. To begin our user test, we asked each participant some questions in the beginning to get a better understanding of users' music discovery. 
 
+Link to Prototype: [Prototype](https://xd.adobe.com/view/d3db4012-149f-468f-996f-b25881b9f1bc-8688/?fullscreen)
+
 * Background: 
     * How did you go along discovering new music you like?
     * Following along with music discovery, would you say you are satisfied with your current method of music discovery? If not, what are some ways it can be improved upon?
