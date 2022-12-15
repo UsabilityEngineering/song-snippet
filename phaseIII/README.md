@@ -36,6 +36,8 @@ Link to Prototype: [Prototype](https://xd.adobe.com/view/d3db4012-149f-468f-996f
     * Any thoughts or comments?
 
 # Findings - 
+Background: Our studies have found that all users' only means of discovering songs are through recommended playlists, songs from movies and tv shows, and through friends. Around 60% of users are currently satisfied with their current method of music discovery, but would be open to trying new ways to find more of the music that they like. 
+
 Task 1: All participants were able to create an account and sign-in, letting us know that our sign-up process is simple as well as intuitive.
 The ability to already be logged in after creating an account made the experince much more enjoyable for participants. One user voiced that they liked that there was minimal information needed to create an account.
 
