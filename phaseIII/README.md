@@ -11,8 +11,8 @@ We had participants run through our own prototype and run through the various ta
 
 * Background: 
     * How did you go along discovering new music you like?
-    * Following along with music discovery, would you say you are satisfied with your current method of music discovery? If not, what are some ways it can be improved upon
-    * Were there any specific features that made you able to find new music. 
+    * Following along with music discovery, would you say you are satisfied with your current method of music discovery? If not, what are some ways it can be improved upon?
+    * Were there any specific features that made you able to find new music? 
 
 * Task 1: 
     * First, we would like you to imagine you are a new user trying this application for the first time. You are looking to try out this new app to find new songs that you may not have heard before. Walk us through how you would create an account and sign in to the application.
